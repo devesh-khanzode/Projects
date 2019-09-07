@@ -1,0 +1,1 @@
+The main aim of this project is to sense all parameters of crops and take appropriate action regarding sensed data. It conveys information back to the farmer at any remote place using cellphone network.
