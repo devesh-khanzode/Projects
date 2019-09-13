@@ -1,0 +1,3 @@
+".\Objects\home auto.obj" 
+TO ".\Objects\home automation" 
+PRINT(".\Listings\home automation.m51")
